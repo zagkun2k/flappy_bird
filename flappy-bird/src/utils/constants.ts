@@ -1,0 +1,10 @@
+export const CANVAS_WIDTH = 400;
+export const CANVAS_HEIGHT = 600;
+export const BIRD_WIDTH = 40;
+export const BIRD_HEIGHT = 30;
+export const PIPE_WIDTH = 50;
+export const PIPE_GAP = 150;
+export const GRAVITY = 0.5;
+export const JUMP_FORCE = -10;
+export const PIPE_SPEED = 2;
+export const PIPE_INTERVAL = 1500;
